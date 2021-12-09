@@ -4,4 +4,9 @@ Logs
 Logs/*
 Library
 Library/*
-
+.idea
+.idea/*
+idea
+idea/*
+obj
+obj/*
